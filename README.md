@@ -44,16 +44,16 @@ The goal is to build a reliable model that can filter out unwanted spam emails a
 Here are some sample outputs from the Spam-Ham Detection model:
 
 ### 1. DashBoard  
-![Dashboard Preview](https://github.com/joshiBhavana/Spam-Ham-Detection/blob/main/Images/Dashboard.png)
+![Dashboard Preview](https://github.com/sridharpatwari/Span-and-Ham-Email-Detection/blob/main/Images/Dashboard.png)
 
 ### 2. Spam Email Prediction  
-![Spam Email](https://github.com/joshiBhavana/Spam-Ham-Detection/blob/main/Images/Spam_output.png)
+![Spam Email](https://github.com/sridharpatwari/Span-and-Ham-Email-Detection/blob/main/Images/Spam_output.png)
 
 ### 3. Ham Email Prediction  
-![Ham Email](https://github.com/joshiBhavana/Spam-Ham-Detection/blob/main/Images/Ham_output.png)
+![Ham Email](https://github.com/sridharpatwari/Span-and-Ham-Email-Detection/blob/main/Images/Ham_output.png)
 
 ### 4. Error Message 
-![Error Prediction](https://github.com/joshiBhavana/Spam-Ham-Detection/blob/main/Images/Error_Message.png)
+![Error Prediction](https://github.com/sridharpatwari/Span-and-Ham-Email-Detection/blob/main/Images/Error_Message.png)
 
 
 ---
